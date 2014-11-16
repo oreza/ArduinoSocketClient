@@ -1,0 +1,8 @@
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\bin\Debug\ArduinoSocketClient.exe
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\bin\Debug\ArduinoSocketClient.pdb
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ArduinoSocketClient.Properties.Resources.resources
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ArduinoSocketClient.csproj.GenerateResource.Cache
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ArduinoSocketClient.exe
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ArduinoSocketClient.pdb
+C:\dev\workspace\ArduinoSocketClient\ArduinoSocketClient\obj\Debug\ArduinoSocketClient.SensorForm.resources
